@@ -1,2 +1,2 @@
-# Dubai-PropertyAI
+# Dubai-Real-Estate-AI
 Under progres ...
